@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Avocado",
+      "image": "https://www.thetreecenter.com/wp-content/uploads/Avocado-tree-Winterhome.jpg",
+      "price": "5",
+      "id": 8
     }
   ]
 }
